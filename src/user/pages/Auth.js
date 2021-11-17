@@ -40,11 +40,9 @@ const Auth = () => {
   const authSubmitHandler = async (event) => {
     event.preventDefault();
 
-    // console.log(formState.inputs);
 
     if (isLoginMode) {
       try {
-        //axios or this fetch
         const responseData = await sendRequest(
           process.env.REACT_APP_BACKEND_URL + "/users/login",
           "POST",
@@ -68,7 +66,6 @@ const Auth = () => {
         formData.append("password", formState.inputs.password.value);
         formData.append("image", formState.inputs.image.value);
 
-        //axios or this fetch
         const responseData = await sendRequest(
           process.env.REACT_APP_BACKEND_URL + "/users/signup",
           "POST",

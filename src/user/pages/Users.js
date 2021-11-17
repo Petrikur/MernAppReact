@@ -10,8 +10,7 @@ const Users = () => {
   const { isLoading, error, sendRequest, clearError } = useHttpClient();
   const [loadedUsers, setLoadedUsers] = useState();
 
-  //dont use useeffect with promise
-  //any function with async and await will always return promise
+  
   useEffect(() => {
     const fetchUsers = async () => {
       try {

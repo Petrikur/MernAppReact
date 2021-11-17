@@ -27,7 +27,6 @@ export const useHttpClient = () => {
           (reqCtrl) => reqCtrl !== httpAbortCtrl
         );
 
-        //400 or 500 status code we will not make here
         if (!response.ok) {
           throw new Error(responseData.message);
         }
@@ -46,7 +45,7 @@ export const useHttpClient = () => {
     setError(null);
   };
 
-  //150
+  
   useEffect(() => {
     return () => {
       activeHttpRequests.current.forEach((abortCtrl) => abortCtrl.abort());

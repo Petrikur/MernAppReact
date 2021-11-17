@@ -6,7 +6,6 @@ import { CSSTransition } from "react-transition-group";
 
 const SideDrawer = (props) => {
   const content = (
-      // 48
     <CSSTransition
       in={props.show}
       timeout={200}

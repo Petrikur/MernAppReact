@@ -23,7 +23,7 @@ const MainNavigation = (props) => {
     <React.Fragment>
       {/* If drawer is open, then render backdrop and you can click it to close the drawer */}
       {drawerIsOpen && <Backdrop onClick={closeDrawerHandler} />}
-      {/* ternaru to check state if drwaert is open, if is then show siderdwawer */}
+      {/*  check state if drwaert is open, if is then show siderdwawer */}
 
       <SideDrawer show={drawerIsOpen} onClick={closeDrawerHandler}>
         <nav className="main-navigation__drawer-nav">
@@ -41,7 +41,7 @@ const MainNavigation = (props) => {
           <span />
         </button>
         <h1 className="main-navigation__title">
-          <Link to="/">Your places</Link>
+          <Link to="/">Cool places</Link>
         </h1>
 
         <nav className="main-navigation__header-nav">

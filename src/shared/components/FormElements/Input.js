@@ -21,7 +21,6 @@ const inputReducer = (state, action) => {
 };
 
 const Input = (props) => {
-  // 57
   const [inputState, dispatch] = useReducer(inputReducer, {
     value: props.initialValue || "",
     isValid:  props.initialValid || false,
@@ -36,7 +35,6 @@ const Input = (props) => {
   },[id,value,isValid,onInput]);
 
   const changeHandler = (event) => {
-    //action object check inputreducer const
     dispatch({
       type: "CHANGE",
       val: event.target.value,

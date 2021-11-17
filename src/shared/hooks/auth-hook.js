@@ -10,7 +10,6 @@ export const useAuth = () => {
   const login = useCallback((uid, token, expirationDate) => {
     setToken(token);
     setUserId(uid);
-    //1hour
     const tokenExpiration =
       expirationDate || new Date(new Date().getTime() + 1000 * 60 * 60);
     setTokenExpirationDate(tokenExpiration);
@@ -44,7 +43,7 @@ export const useAuth = () => {
     }
   }, [token, logout, tokenExpirationDate]);
 
-  //auto login)
+  //auto login
   useEffect(() => {
     const storedData = JSON.parse(localStorage.getItem("userData"));
     if (

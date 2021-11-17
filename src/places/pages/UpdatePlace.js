@@ -20,7 +20,6 @@ import "./PlaceForm.css";
 const UpdatePlace = () => {
   const auth = useContext(AuthContext);
   const { isLoading, error, sendRequest, clearError } = useHttpClient();
-  //we get placeId from App.js in route segment
   const placeId = useParams().placeId;
   const [loadedPlace, setLoadedPlace] = useState();
   const history = useHistory();
