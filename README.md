@@ -10,8 +10,7 @@ In the app you can upload places with image and see other users places which the
 
 ## Usage
 
-You can test this app [here](https://mern-322611.web.app/),
-I have currently free hosting so images will only last briefly. Uploading images can be tested still.
+My hosting has ended so this cant be tested right now
 
 ## Installation
 
