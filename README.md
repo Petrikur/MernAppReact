@@ -31,5 +31,7 @@ Build the project running npm run build
 ![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss3.PNG width="200" height="400")
 ![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss5.PNG width="200" height="400")
 
+![test image size]<img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss1.PNG" width="400" height="400">
+
 
 
