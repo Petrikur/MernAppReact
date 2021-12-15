@@ -24,5 +24,9 @@ npm start
 ## Build
 Build the project running npm run build
 
+## Images from app
 
+![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss1.PNG?raw=true)
+
+https://github.com/Petrikur/MernAppReact/blob/main/images/ss1.PNG
 
