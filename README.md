@@ -26,12 +26,7 @@ Build the project running npm run build
 
 ## Images from app
 
-
-<img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss1.PNG" width="400" height="400">
-<img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss2.PNG" width="2000" height="400">
-<img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss3.PNG" width="600" height="900">
-<img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss5.PNG" width="600" height="600">
-
+You can find few images of the app [here](https://github.com/Petrikur/MernAppReact/tree/main/images).
 
 
 
