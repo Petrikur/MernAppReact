@@ -28,9 +28,9 @@ Build the project running npm run build
 
 
 <img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss1.PNG" width="400" height="400">
-<img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss2.PNG" width="400" height="800">
+<img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss2.PNG" width="800" height="400">
 <img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss3.PNG" width="400" height="400">
-<img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss5.PNG" width="400" height="400">
+<img src="https://github.com/Petrikur/MernAppReact/blob/main/images/ss5.PNG" width="400" height="600">
 
 
 
