@@ -23,8 +23,6 @@ const Users = () => {
     fetchUsers();
   }, [sendRequest]);
 
-  
-
   return (
     <React.Fragment>
       <ErrorModal error={error} onClear={clearError} />

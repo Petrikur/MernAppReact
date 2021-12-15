@@ -12,8 +12,9 @@
   .modal__header {
     width: 100%;
     padding: 1rem 0.5rem;
-    background: #2a006e;
+    background: #000000;
     color: white;
+    border-radius: 5px;
   }
   
   .modal__header h2 {
