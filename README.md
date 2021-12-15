@@ -26,10 +26,10 @@ Build the project running npm run build
 
 ## Images from app
 
-![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss1.PNG?raw=true)
-![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss2.PNG?raw=true)
-![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss3.PNG?raw=true)
-![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss5.PNG?raw=true)
+![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss1.PNG?raw=true width="200" height="400" )
+![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss2.PNG?raw=true width="200" height="400")
+![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss3.PNG?raw=true width="200" height="400")
+![alt text](https://github.com/Petrikur/MernAppReact/blob/main/images/ss5.PNG?raw=true width="200" height="400")
 
 
 
