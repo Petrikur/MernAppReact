@@ -10,7 +10,7 @@ You can also edit your own places and delete them.
 
 ## Usage
 
-Backend is hosted by heroku and frontend by firebase, but my hosting has ended so this cant be tested right now. You can check images from app [here](https://github.com/Petrikur/MernAppReact/tree/main/images).
+Backend was hosted by heroku and frontend by firebase, but not currently. You can check images from app [here](https://github.com/Petrikur/MernAppReact/tree/main/images).
 
 ## Installation
 
